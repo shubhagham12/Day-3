@@ -118,10 +118,7 @@ let obj = [
         {
           name: "Online Book Recommendation System",
           about:
-            "Recommendations system are tools in e-commerce system which helps user to
-find the appropriate products. The approach of recommendation system is used
-for information filtering and based on user preference and rating, which is
-helpful for any user to purchase items according to their need of interest.",
+            "Recommendations system are tools in e-commerce system which helps user to find the appropriate products. The approach of recommendation system is used for information filtering and based on user preference and rating, which is helpful for any user to purchase items according to their need of interest.",
         },
       ],
       activities: ["Traveling", "Playing Cricket"],
